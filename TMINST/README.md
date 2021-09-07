@@ -1,6 +1,6 @@
 # TMNIST (Typography MNIST)
 
-The TMNIST datasets are datasets to help in type and hand writing recognition and generation.
+The TMNIST datasets are datasets to help AI research in type and hand writing recognition and generation.
 
 The TMNIST dataset contains over half a million images of multiple glyphs from a set of 1,812 unique glyphs in over 2,900 font styles.
 
