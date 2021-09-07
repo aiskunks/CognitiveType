@@ -1,12 +1,17 @@
-# CognitiveType
-The Cognitive Type project
+# TMNIST (Typography MNIST)
 
-*Mapping Typography to Cognition*
+The TMNIST datasets are datasets to help in type and writing recognition and generation.
 
-The Cognitive Type project has two main objectives: 
-1) To develop eye tracking tools using the Klee library that allow for the real-time mapping of type to cognition 
-and 2) the creation of computational tools that allow for the easy design of typefaces with cognitive properties such as readability.
+The TMNIST dataset contains over half a million images of multiple glyphs from a set of 1,812 unique glyphs in over 2,900 font styles.
 
-These tools will allow designers to know whether a typeface is readabile for kids, or dyslexics or adults and what changes to make if the type has issues. They will also allow for the analysis of the sentiment (e.g. disgust or excitment) of a use of type in a design.
+The data is split into many smaller datasets for use of use. 
 
-For details see the [Cognitive Type project](https://docs.google.com/presentation/d/1PQ4o6qKFJFAdw3Ibp9tZph5ryV9rMsAfbLvvMVt7Zt4/edit#slide=id.p) and [CognitiveType.org](http://cognitivetype.org/)    
+Currently the datasets are:
+
+TMNIST-Digits: https://lnkd.in/gDW3Wj7s
+TMNIST-Alphabet: https://lnkd.in/easzHyVm
+TMNIST-Glyphs: https://lnkd.in/gDW3Wj7s
+
+
+Cognitive Type Project Home: https://cognitivetype.org/
+Cognitive Type Project Details: https://bit.ly/3dIDEQ9
