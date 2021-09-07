@@ -9,7 +9,7 @@ The data is split into many smaller datasets for use of use.
 Currently the datasets are:
 
 TMNIST-Digits: https://lnkd.in/gDW3Wj7s    
-TMNIST-Alphabet: https://lnkd.in/easzHyVm     
+TMNIST-Alphabet: https://www.kaggle.com/nikbearbrown/tmnist-alphabet-94-characters     
 TMNIST-Glyphs: https://www.kaggle.com/nimishmagre/tmnist-glyphs-1812-characters    
 
 
