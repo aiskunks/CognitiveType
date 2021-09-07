@@ -4,7 +4,7 @@ The TMNIST datasets are datasets to help AI research in type and hand writing re
 
 The TMNIST dataset contains over half a million images of multiple glyphs from a set of 1,812 unique glyphs in over 2,900 font styles.
 
-The data is split into many smaller datasets for use of use. 
+The data is split into many smaller datasets for ease use of use. 
 
 Currently the datasets are:
 
