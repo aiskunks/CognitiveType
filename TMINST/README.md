@@ -8,9 +8,10 @@ The data is split into many smaller datasets for use of use.
 
 Currently the datasets are:
 
-TMNIST-Digits: https://lnkd.in/gDW3Wj7s
-TMNIST-Alphabet: https://lnkd.in/easzHyVm
-TMNIST-Glyphs: https://lnkd.in/gDW3Wj7s
+TMNIST-Digits: https://lnkd.in/gDW3Wj7s    
+TMNIST-Alphabet: https://lnkd.in/easzHyVm     
+TMNIST-Glyphs: https://www.kaggle.com/nimishmagre/tmnist-glyphs-1812-characters    
+
 
 
 Cognitive Type Project Home: https://cognitivetype.org/
