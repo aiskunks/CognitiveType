@@ -12,7 +12,7 @@ TMNIST-Digits (10 characters and over 29,000 images): https://www.kaggle.com/nim
 TMNIST-Alphabet (94 characters and over 281,000 images): https://www.kaggle.com/nikbearbrown/tmnist-alphabet-94-characters     
 TMNIST-Glyphs (1,812 characters and over 500,000 images): https://www.kaggle.com/nimishmagre/tmnist-glyphs-1812-characters    
 
-We are looking for people who can read Cyrillic, Chinese, Japanese, Arabic, Persian, and Sanskrit for the creation of similar non-latin character datasets.  
+We are looking for people who can read Cyrillic, Chinese, Japanese, Arabic, Persian, Korean, Hebrew, East European (Polish, Czech, Hungarian, etc.), Greek, Malay, Thai, Turkish, Luo, N'Ko, and Sanskrit for the creation of similar non-latin character datasets.  
 
 
 Cognitive Type Project Home: https://cognitivetype.org/     
