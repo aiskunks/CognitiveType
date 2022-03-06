@@ -13,6 +13,8 @@ The basic idea is that it is well known that different typefaces have different 
 
 For details see the [Cognitive Type project](https://docs.google.com/presentation/d/1PQ4o6qKFJFAdw3Ibp9tZph5ryV9rMsAfbLvvMVt7Zt4/edit#slide=id.p) and [CognitiveType.org](http://cognitivetype.org/)   
 
-The intro to the Cognitive Type Project is now on YouTube <a href'https://youtu.be/mA4mqNOUdm0'>https://youtu.be/mA4mqNOUdm0</a>  
+The intro to the Cognitive Type Project is now on YouTube <a href='https://youtu.be/mA4mqNOUdm0'>https://youtu.be/mA4mqNOUdm0</a>  
+
+
 
 
