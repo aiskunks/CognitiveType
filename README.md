@@ -1,5 +1,4 @@
-# CognitiveType
-The Cognitive Type project
+# The Cognitive Type project
 
 *Mapping Typography to Cognition*
 
