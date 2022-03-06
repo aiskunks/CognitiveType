@@ -1,2 +1,3 @@
-# Skepticism
-Skepticism python library
+# Type Segmentation
+
+Type Segmentation
