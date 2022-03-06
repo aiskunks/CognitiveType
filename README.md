@@ -4,7 +4,7 @@ The Cognitive Type project
 *Mapping Typography to Cognition*
 
 The Cognitive Type project has two main objectives: 
-1) To develop eye-tracking tools using the Klee library that allow for the real-time mapping of type to cognition. 
+1) To develop eye-tracking tools that allow for the real-time mapping of type to cognition. 
 and 2) tools that allow for the easy design of typefaces with cognitive properties such as readability.
 
 These tools will allow designers to know whether a typeface is readable for kids, or dyslexics, or adults and what changes to make if the type has issues. They will also allow for the analysis of the sentiment (e.g. disgust or excitement) of the use of type in a design.
