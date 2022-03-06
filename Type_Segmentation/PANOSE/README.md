@@ -1,2 +1,3 @@
-# Skepticism
-Skepticism python library
+# PANOSE
+
+PANOSE
