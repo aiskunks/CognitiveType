@@ -1,2 +1,5 @@
-# Skepticism
-Skepticism python library
+# Computational Typography
+
+Awesome Computational Typography links
+
+
