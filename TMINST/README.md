@@ -15,5 +15,5 @@ TMNIST-Glyphs (1,812 characters and over 500,000 images): https://www.kaggle.com
 We are looking for people who can read Cyrillic, Chinese, Japanese, Arabic, Persian, Korean, Hebrew, East European (Polish, Czech, Hungarian, etc.), Greek, Malay, Thai, Turkish, Luo, N'Ko, and Sanskrit for the creation of similar non-latin character datasets.  
 
 
-Cognitive Type Project Home: https://cognitivetype.org/     
+Cognitive Type Project Home: http://cognitivetype.org/     
 Cognitive Type Project Details: https://bit.ly/3dIDEQ9   
